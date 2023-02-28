@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Command-line application that dynamically generates a README.md for your Github project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanessaDantonio/readme-generator.git"
+  },
+  "author": "Vanessa D'Antonio <yumin.dantonio@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanessaDantonio/readme-generator/issues"
+  },
+  "homepage": "https://github.com/VanessaDantonio/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
